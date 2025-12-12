@@ -15,7 +15,7 @@ const SectionHeader = ({ title, subtitle }) => (
 const About = () => {
     const stats = [
         { label: "Years Experience", value: "5+" },
-        { label: "Projects Completed", value: "50+" },
+        { label: "Projects Completed", value: "60+" },
         { label: "Team Members", value: "10+" },
         { label: "Client Satisfaction", value: "99%" },
     ];
